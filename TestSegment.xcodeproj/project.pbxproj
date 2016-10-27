@@ -14,6 +14,7 @@
 		7E9681D21DBDFE040015DD8A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E9681D11DBDFE040015DD8A /* Assets.xcassets */; };
 		7E9681D51DBDFE040015DD8A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E9681D31DBDFE040015DD8A /* LaunchScreen.storyboard */; };
 		7E9681DE1DBDFEAF0015DD8A /* CommonSegmentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E9681DD1DBDFEAF0015DD8A /* CommonSegmentView.m */; };
+		7EFF3A631DC1A998004F0D2B /* segment.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7EFF3A621DC1A998004F0D2B /* segment.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		7E9681D61DBDFE040015DD8A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7E9681DC1DBDFEAF0015DD8A /* CommonSegmentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommonSegmentView.h; sourceTree = "<group>"; };
 		7E9681DD1DBDFEAF0015DD8A /* CommonSegmentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommonSegmentView.m; sourceTree = "<group>"; };
+		7EFF3A621DC1A998004F0D2B /* segment.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = segment.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				7E9681CC1DBDFE040015DD8A /* ViewController.m */,
 				7E9681DC1DBDFEAF0015DD8A /* CommonSegmentView.h */,
 				7E9681DD1DBDFEAF0015DD8A /* CommonSegmentView.m */,
+				7EFF3A621DC1A998004F0D2B /* segment.gif */,
 				7E9681CE1DBDFE040015DD8A /* Main.storyboard */,
 				7E9681D11DBDFE040015DD8A /* Assets.xcassets */,
 				7E9681D31DBDFE040015DD8A /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 			files = (
 				7E9681D51DBDFE040015DD8A /* LaunchScreen.storyboard in Resources */,
 				7E9681D21DBDFE040015DD8A /* Assets.xcassets in Resources */,
+				7EFF3A631DC1A998004F0D2B /* segment.gif in Resources */,
 				7E9681D01DBDFE040015DD8A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -316,6 +320,7 @@
 				7E9681DB1DBDFE040015DD8A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
